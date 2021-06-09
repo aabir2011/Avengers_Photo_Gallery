@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+}
+
+#main {
+    width: 100%;
+    background-color: black;
+}
+
+#secondmain {
+    background-color: maroon;
+    width: 100%;
+}
+
+.line {
+    width: 100%;
+    height: 10px;
+    background-color: black;
+}
+
+.container {
+    text-align: center;
+}
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+.item {
+    height: 450px;
+    background-color: maroon;
+}
+
+.item img {
+    margin: auto;
+}
+
+p {
+    background-color: white;
+}
+
+.red {
+    background-color: maroon;
+}
+
+#ca {
+    margin-top: 83px;
+}
+
+#im {
+    margin-top: 106px;
+}
+
+#thor {
+    margin-top: 83px;
+}
+
+#hulk {
+    margin-top: 83px;
+}
+
+#widow {
+    margin-top: 83px;
+}
+
+#hawk {
+    margin-top: 83px;
+}
+
+#witch {
+    margin-top: 83px;
+}
+
+#silver {
+    margin-top: 172px;
+}
+
+#see {
+    margin-top: 92px;
+}
+
+#weird {
+    margin-top: 83px;
+}
+
+#bp {
+    margin-top: 150px;
+}
+#d{
+  color: black  
+}
